@@ -1,0 +1,28 @@
+html
+{
+    background-color: color-mix(in srgb, pink 40% , white 60% );
+}
+
+#h3
+{
+    font-family: Impact;
+    text-align: center;
+}
+
+#h4
+{
+    font-family: Lucida;
+    text-align: center;
+}
+
+#h
+{
+    font-family: 'Foldit', cursive;
+    font: bold;
+}
+
+body
+{
+    text-align: center;
+    align-items: center;
+}
